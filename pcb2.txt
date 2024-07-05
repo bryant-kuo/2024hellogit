@@ -1,8 +1,5 @@
 pcb2 hello 2
 pcb2 hello 2
 pcb2 hello 4
-<<<<<<< HEAD
 pcb2 hello 5
-=======
-pcb2 hello 4
->>>>>>> 9650ddc47fe99976c4dc583f1df6b34772598530
+
